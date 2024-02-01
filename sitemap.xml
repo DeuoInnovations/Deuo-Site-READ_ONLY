@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://deuo.one/</loc>
+	<lastmod>2023-11-21</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://deuo.one/img/arrow.svg</image:loc>
+	<image:title>arrow</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://deuo.one/img/arrow-dark.svg</image:loc>
+	<image:title>arrow</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://deuo.one/img/download.png</image:loc>
+	<image:title>avatar@2x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://deuo.one/img/download.webp</image:loc>
+	<image:title>avatar@2x</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://deuo.one/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://deuo.one/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://deuo.one/contact/</loc>
+	<lastmod>2023-11-21</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://deuo.one/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://deuo.one/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://deuo.one/about-me/</loc>
+	<lastmod>2023-11-21</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://deuo.one/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://deuo.one/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://deuo.one/lost/</loc>
+	<lastmod>2023-11-21</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://deuo.one/img/APPLE-MacBook-Air-13.6-2022-M2-256-GB-SSD-Midnight-2.png</image:loc>
+	<image:title>APPLE MacBook-Air-13.6-2022-M2-256-GB-SSD-Midnight-2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://deuo.one/img/APPLE-MacBook-Air-13.6-2022-M2-256-GB-SSD-Midnight-2.webp</image:loc>
+	<image:title>APPLE MacBook-Air-13.6-2022-M2-256-GB-SSD-Midnight-2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://deuo.one/img/iphone-14-pro-max-space-black-sku-header-070922.png</image:loc>
+	<image:title>iphone 14-pro-max-space-black-sku-header-070922</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://deuo.one/img/iphone-14-pro-max-space-black-sku-header-070922.webp</image:loc>
+	<image:title>iphone 14-pro-max-space-black-sku-header-070922</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://deuo.one/img/apple-airpods-pro-2.webp</image:loc>
+	<image:title>apple airpods-pro-2</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://deuo.one/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://deuo.one/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
